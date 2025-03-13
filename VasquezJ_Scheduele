@@ -1,1 +1,90 @@
+<!DOCTYPE html>
 
+<html>
+
+  <head>
+  </head>
+  <body>
+   <h1>My Scheduele</h1>
+  <table>
+<tr>
+	<td>Periods</td>
+	<td><b>Monday</b></td>
+    <td>Tuesday</td>
+    <td>Wednesday</td>
+    <td>Thursday</td>
+    <td>Friday</td>
+</tr>
+	
+<tr>
+	<td>Period 1</td>
+	<td>Freshman seminar</td>
+    <td>CRYMA</td>
+    <td>Freshman seminar</td>
+    <td>CRYMA</td>
+    <td>Freshman seminar</td>
+</tr>
+	
+<tr>
+	<td>Period 2</td>
+	<td>Intro to Web Development</td>
+    <td>Intro to Web Development</td>
+    <td>Intro to Web Development</td>
+    <td>Intro to Web Development</td>
+    <td>Intro to Web Development</td>
+</tr>
+	
+<tr>
+	<td>Period 3</td>
+	<td>Algebra</td>
+    <td>Algebra</td>
+    <td>Algebra</td>
+    <td>Algebra</td>
+    <td>Algebra</td>
+</tr>
+	
+<tr>
+	<td>Period 4</td>
+	<td>Global</td>
+    <td>GLobal</td>
+    <td>Global</td>
+    <td>Global</td>
+    <td>Global</td>
+</tr>
+	
+<tr>
+	<td>Period 5</td>
+	<td>Mathlab</td>
+    <td>Gym</td>
+    <td>Mathlab</td>
+    <td>Gym</td>
+    <td>Mathlab</td>
+</tr>
+	
+<tr>
+	<td>Period 6</td>
+	<td colspan = '2'>Lunch</td>
+</tr>
+	
+<tr>
+	<td>Period 7</td>
+	<td>Biology</td>
+    <td>Biology</td>
+    <td>Biology</td>
+    <td>Biology</td>
+    <td>Biology</td>
+</tr>
+
+	<td>Period 8</td>
+    <td>English</td>
+    <td>English</td>
+    <td>English</td>
+    <td>English</td>
+    <td>English</td>
+    </table>
+    
+    
+    
+  </body>
+
+</html>
