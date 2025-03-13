@@ -1,1 +1,23 @@
+<!DOCTYPE html>
 
+<html>
+
+  <head>
+  <h1>My Reflection</h1>
+  </head>
+	<h3> 1. How would you describe this project and what is its purpose</h3>
+	<p>I'd describe this project as a good oppurtunity to learn about the computer science field. The purpose is to teach us so we can use it later on.<p>
+	<h3> 2. In What ways did this project contribute to your overall learning as a computer science student?</h3>
+<p>This Project has made me deepen my understanding of HTML as I applied the concepts I learned, into my own webpage.</p>
+	<h3> 3. How was this project been iteratively developed over time?</h3>
+<p>At first, I focused on the core HTML elements like headings, paragraphs, and links. Then I improved my webpage by adding images and made sure everything was aligned correctly.</p>
+	<h3> 4. Looking back, what might you have done differently?</h3>
+<p>Something I could've done differently is how I could've planned the structure and layout before coding, making sure my project was polished and neat.</p>
+	<h3> 5. If you were to further develop this project, what would your next steps be?</h3>
+<p> Some further steps i'd take to make my webpage even better is by adding different background colors to make it more engaging. I would also like to add smoother transitions, if that even exist.</p>
+<p>Made by<br>Junely Vasquez</p>
+
+  <body>
+  </body>
+
+</html>
