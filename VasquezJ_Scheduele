@@ -8,12 +8,12 @@
    <h1>My Scheduele</h1>
   <table>
 <tr>
-	<td>Periods</td>
-	<td><b>Monday</b></td>
-    <td>Tuesday</td>
-    <td>Wednesday</td>
-    <td>Thursday</td>
-    <td>Friday</td>
+	<td><u>Periods</u></td>
+	<td><u>Monday</u></td>
+    <td><u>Tuesday</u></td>
+    <td><u>Wednesday</u></td>
+    <td><u>Thursday</u></td>
+    <td><u>Friday</u></td>
 </tr>
 	
 <tr>
@@ -46,7 +46,7 @@
 <tr>
 	<td>Period 4</td>
 	<td>Global</td>
-    <td>GLobal</td>
+    <td>Global</td>
     <td>Global</td>
     <td>Global</td>
     <td>Global</td>
