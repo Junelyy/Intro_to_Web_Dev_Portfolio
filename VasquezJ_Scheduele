@@ -4,10 +4,20 @@
 
 	<head>
   	</head>
+    <style>
+    		h1{
+            	color:red;
+              }
+           </style>
   <body>
    <h1>My Scheduele</h1>
   <table>
   	<table border=1>
+     <style>
+    		tr{
+            	color:red;
+              }
+           </style>
 		<tr>
 			<td><u>Periods</u></td>
 			<td><u>Monday</u></td>
