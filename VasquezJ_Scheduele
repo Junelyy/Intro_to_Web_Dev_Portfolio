@@ -6,7 +6,7 @@
   	</head>
     <style>
     		h1{
-            	color:red;
+            	color:green;
               }
            </style>
   <body>
@@ -15,8 +15,11 @@
   	<table border=1>
      <style>
     		tr{
-            	color:red;
+            	color:pink;
               }
+            tr{
+            	border-style: solid;
+                border-color: green;
            </style>
 		<tr>
 			<td><u>Periods</u></td>
