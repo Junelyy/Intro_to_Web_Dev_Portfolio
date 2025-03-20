@@ -5,8 +5,11 @@
 	<head>
   	</head>
     <style>
+     h1{
+     	font-family: Lucida Console;
+        }
     		h1{
-            	color:green;
+            	color:LightSeaGreen;
               }
            </style>
   <body>
@@ -15,12 +18,18 @@
   	<table border=1>
      <style>
     		tr{
-            	color:pink;
+            	color:LightGreen;
               }
             tr{
             	border-style: solid;
-                border-color: green;
+                border-color: Lime;
+                
            </style>
+           <style>
+body {
+  td{background-color: LightSeaGreen;
+		}
+</style>
 		<tr>
 			<td><u>Periods</u></td>
 			<td><u>Monday</u></td>
@@ -77,7 +86,11 @@
 	
 		<tr>
 			<td>Period 6</td>
-			<td colspan = '2'>Lunch</td>
+			<td>Lunch</td>
+            <td>Lunch</td>
+            <td>Lunch</td>
+            <td>Lunch</td>
+            <td>Lunch</td>
 		</tr>
 	
 		<tr>
